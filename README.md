@@ -38,7 +38,9 @@ iOS     - 86.06%
 1) **User Churn rate:** 3.583 %  (43 users)
 
 2) **Number of search sessions with zero results by churn status:** 
+
 Search sessions with zero results by churned users: 26
+
 Search sessions with zero results by returning users: 339
 
 3) **CTR by churn status:**
