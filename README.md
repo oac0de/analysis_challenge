@@ -11,7 +11,7 @@ Initial/suggested metrics:
 1) **Number of search sessions with a result:** 8064 search sessions
 
 2) **Number of search sessions with a click per user:**
-<img src='~/../Images/search_session_click_per_user.png'>
+<img src='~/../images/search_session_click_per_user.png'>
 
 3) **Distribution of Clicks by Content Type:**
 <img src='~/../Images/content_click_distribution.png'>
