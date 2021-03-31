@@ -6,6 +6,8 @@ Some definitions:
 
 **Search session** = *A series of events under a unique search id. Some sessions have numerous queries, as TIDAL search engine populates results continuously as a user is typing. Completion of a session is typically a click on content (i.e. not 'cancelSearch').*
 
+**Click** - *A click on content, either track, artist, video, etc.*
+
 Initial/suggested metrics:
 
 1) **Number of search sessions with a result:** 8064 search sessions
