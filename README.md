@@ -19,8 +19,11 @@ Initial/suggested metrics:
 4) **Average query length:** 7.20 characters 
 
 5) **CTR (click-through rate) by client platform:** 
+
 android - 72.40%
+
 desktop - 77.96%
+
 iOS     - 86.06%
 
 6) **Number of search clicks on topResults:**
