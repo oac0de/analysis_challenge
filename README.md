@@ -22,11 +22,11 @@ Initial/suggested metrics:
 
 5) **CTR (click-through rate) by client platform:** 
 
-android - 72.40%
+*android* - 72.40%
 
-desktop - 77.96%
+*desktop* - 77.96%
 
-iOS     - 86.06%
+*iOS*     - 86.06%
 
 6) **Number of search clicks on topResults:**
 <img src='~/../images/clicks_by_topresult_placement.png'>
@@ -84,6 +84,9 @@ Search sessions with zero results by returning users: 339
 • Further investigation into user churning/retention
 
 • Refining data input to avoid errors
+
+# Future Work
+In addition to the future analysis recs, I would like to compile all code for each metric into a designated function for reuse. 
 
 
 
