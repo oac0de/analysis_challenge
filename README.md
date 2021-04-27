@@ -1,5 +1,8 @@
 # TIDAL analysis_challenge
 
+
+#LOADING ANALYSIS PRODUCTION LEVEL..........
+
 Various metrics were calculated, and then enriched with user_metadata.
 
 Some definitions:
